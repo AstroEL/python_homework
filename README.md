@@ -1,2 +1,2 @@
-# python_homework
-FinTech Python HW
+# Python FINTECH homework
+FinTech Python HW - budget analysis
